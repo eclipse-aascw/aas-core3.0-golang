@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 aas-core3.0-golang AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 // Package types provides the data structures corresponding to the meta-model.
 //
 // Provide an implementation of the Asset Administration Shell (AAS) V3.0.

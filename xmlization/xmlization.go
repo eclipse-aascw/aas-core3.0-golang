@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 aas-core3.0-golang AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 // Package xmlization de/serializes model instances to and from XML.
 //
 // To de-serialize, call one of the `Unmarshal*` functions.
