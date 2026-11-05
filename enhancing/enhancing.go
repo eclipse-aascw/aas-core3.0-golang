@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 aas-core3.0-golang AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 // Package enhancing allows for enhancement of model instances with your custom data.
 package enhancing
 

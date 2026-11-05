@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 aas-core3.0-golang AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 // Package constants provides immutable values of the meta-model.
 //
 // These are not necessarily constants in the sense of Go language, but

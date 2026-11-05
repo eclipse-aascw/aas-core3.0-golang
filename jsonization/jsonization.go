@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 aas-core3.0-golang AUTHORS
+//
+// SPDX-License-Identifier: MIT
+
 // Package jsonization de/serializes model instances to and from JSON.
 //
 // We can not use one-pass deserialization for JSON since the object
